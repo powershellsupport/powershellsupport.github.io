@@ -8,7 +8,7 @@ Issues with Windows PowerShell are tracked using [UserVoice](https://windowsserv
 
 Issues related to PowerShell (cross-platform) are tracked on [GitHub](https://github.com/PowerShell/PowerShell/issues).
 
-### Prerequisites
+### Prerequisites of Support
 
 > TL, DR: _You need to use the latest version, you have to have a license for your system, and Microsoft must offer support for the product or service._
 
@@ -16,7 +16,7 @@ Reference: [Modern Lifecycle Policy](https://docs.microsoft.com/en-us/lifecycle/
 
 ### PowerShell Support Lifecycle
 
-> TL, DR: _The support of PowerShell (Core) is tied to .NET (Core), and there are two type of releases Long Term Support (LTS) releases and Current releases._
+> TL, DR: _The support of PowerShell (Core) is tied to .NET (Core) and there are two types of releases: Long Term Support (LTS) releases, and Current releases._
 
 The official docs are located [here](https://docs.microsoft.com/en-us/powershell/scripting/powershell-support-lifecycle)
 
