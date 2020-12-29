@@ -23,3 +23,17 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 ### A picture is worth a thousand words
 
 ![Timeline of Support lifecycle of PowerShell](pwsh-december-2020.png)
+
+### Getting support from the community
+
+If you have questions, you may find help from other members of the community in one of these public forums:
+
+- [User Groups](https://aka.ms/psusergroup)
+- [PowerShell Tech Community](https://techcommunity.microsoft.com/t5/PowerShell/ct-p/WindowsPowerShell)
+- [DSC Community](https://dsccommunity.org/)
+- [PowerShell.org](https://powershell.org/)
+- [StackOverFlow](https://stackoverflow.com/questions/tagged/powershell)
+- [r/PowerShell subreddit](https://www.reddit.com/r/PowerShell/)
+- PowerShell Virtual User Group - join via:
+  - [Slack](https://aka.ms/psslack)
+  - [Discord](https://aka.ms/psdiscord)
