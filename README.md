@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to the PowerShell Support Community Pages
 
-You can use the [editor on GitHub](https://github.com/powershellsupport/powershellsupport.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site has been created to aggregate the list of available PowerShell versions and their support information. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Windows PowerShell vs. PowerShell (Core)
 
-### Markdown
+Issues with Windows PowerShell are tracked using [UserVoice](https://windowsserver.uservoice.com/forums/301869-powershell).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Issues related to PowerShell (cross-platform) are tracked on [GitHub](https://github.com/PowerShell/PowerShell/issues).
 
-```markdown
-Syntax highlighted code block
+### Prerequisites
 
-# Header 1
-## Header 2
-### Header 3
+> TL, DR: _You need to use the latest version, you have to have a license for your system, and Microsoft must offer support for the product or service._
 
-- Bulleted
-- List
+Reference: [Modern Lifecycle Policy](https://docs.microsoft.com/en-us/lifecycle/policies/modern)
 
-1. Numbered
-2. List
+### PowerShell Support Lifecycle
 
-**Bold** and _Italic_ and `Code` text
+> TL, DR: _The support of PowerShell (Core) is tied to .NET (Core), and there are two type of releases Long Term Support (LTS) releases and Current releases._
 
-[Link](url) and ![Image](src)
-```
+The official docs are located [here](https://docs.microsoft.com/en-us/powershell/scripting/powershell-support-lifecycle)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### A picture is worth a thousand words
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/powershellsupport/powershellsupport.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Timeline of Support lifecycle of PowerShell](pwsh-december-2020.png)
