@@ -22,4 +22,4 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 
 ### A picture is worth a thousand words
 
-![Timeline of Support lifecycle of PowerShell](pwsh-december-2020.png)
+![Timeline of Support lifecycle of PowerShell](pwsh-january-2021.png)
