@@ -1,6 +1,6 @@
 ## Welcome to the PowerShell Support Community Pages
 
-This site has been created to aggregate the list of available PowerShell versions and their support information. 
+This site has been created to aggregate the list of available PowerShell versions and their support information.
 
 ### Windows PowerShell vs. PowerShell (Core)
 
@@ -22,7 +22,18 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 
 ### A picture is worth a thousand words
 
-![Timeline of Support lifecycle of PowerShell](pwsh-january-2021.png)
+![Timeline of Support lifecycle of PowerShell](pwsh-january-2021-v2.png)
+
+### The latest releases of PowerShell editions required for support
+
+| Edition               | Version |
+| :-------------------- | :------ |
+| Windows PowerShell    | 5.1     |
+| PowerShell (Core) LTS | 7.0.4   |
+| PowerShell (Core)     | 7.1.1   |
+
+> Note: We don't use Core in the name starting with V7
+
 ### Getting support from the community
 
 If you have questions, you may find help from other members of the community in one of these public forums:
