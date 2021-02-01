@@ -14,6 +14,10 @@ Issues related to PowerShell (cross-platform) are tracked on [GitHub](https://gi
 
 Reference: [Modern Lifecycle Policy](https://docs.microsoft.com/en-us/lifecycle/policies/modern)
 
+### Support for different installation options
+
+Microsoft supports the installation methods [published on the docs site](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell). There may be other methods of installation available from other sources. While those tools and methods may work, Microsoft cannot support those methods.
+
 ### PowerShell Support Lifecycle
 
 > TL, DR: _The support of PowerShell (Core) is tied to .NET (Core) and there are two types of releases: Long Term Support (LTS) releases, and Current releases._
