@@ -26,7 +26,7 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 
 ### A picture is worth a thousand words
 
-![Timeline of Support lifecycle of PowerShell](pwsh-march-2021-v1.png)
+![Timeline of Support lifecycle of PowerShell](pwsh-april-2021-v1.png)
 
 ### The latest releases of PowerShell editions required for support
 
