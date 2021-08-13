@@ -52,4 +52,4 @@ If you have questions, you may find help from other members of the community in 
   - [Slack](https://aka.ms/psslack)
   - [Discord](https://aka.ms/psdiscord)
 
-> Last updated on Marc 13, 2021.
+> Last updated on August 13, 2021.
