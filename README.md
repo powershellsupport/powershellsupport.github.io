@@ -52,4 +52,6 @@ If you have questions, you may find help from other members of the community in 
   - [Slack](https://aka.ms/psslack)
   - [Discord](https://aka.ms/psdiscord)
 
-> Last updated on August 13, 2021.
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpowershellsupport.github.io%2F&countColor=%23263759)
+
+> Last updated on August 29, 2021.
