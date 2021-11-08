@@ -30,14 +30,14 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 
 ### The latest releases of PowerShell editions required for support
 
-| Edition               | Version |
-| :-------------------- | :------ |
-| Windows PowerShell    | 5.1     |
+| Edition                   | Version |
+| :------------------------ | :------ |
+| Windows PowerShell        | 5.1     |
 | PowerShell ~~(Core)~~ LTS | 7.0.8   |
 | PowerShell ~~(Core)~~     | 7.1.5   |
-| PowerShell LTS        | 7.2.0   |
+| PowerShell LTS            | 7.2.0   |
 
-> Note: There is a ~1 overlap in support of the two LTS versions
+> Note: There is a ~1 year overlap in support of the two LTS versions to help transitioning to 7.2.
 
 ### Getting support from the community
 
