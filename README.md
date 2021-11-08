@@ -26,17 +26,18 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 
 ### A picture is worth a thousand words
 
-![Timeline of Support lifecycle of PowerShell](pwsh-october-2021-v1.png)
+![Timeline of Support lifecycle of PowerShell](pwsh-november-2021-v1.png)
 
 ### The latest releases of PowerShell editions required for support
 
 | Edition               | Version |
 | :-------------------- | :------ |
 | Windows PowerShell    | 5.1     |
-| PowerShell (Core) LTS | 7.0.8   |
-| PowerShell (Core)     | 7.1.5   |
+| PowerShell ~~(Core)~~ LTS | 7.0.8   |
+| PowerShell ~~(Core)~~     | 7.1.5   |
+| PowerShell LTS        | 7.2.0   |
 
-> Note: We don't use Core in the name starting with V7
+> Note: There is a ~1 overlap in support of the two LTS versions
 
 ### Getting support from the community
 
@@ -54,4 +55,4 @@ If you have questions, you may find help from other members of the community in 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpowershellsupport.github.io%2F&countColor=%23263759)
 
-> Last updated on October 19, 2021.
+> Last updated 2021/11/8.
