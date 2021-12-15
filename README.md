@@ -1,4 +1,4 @@
-## Welcome to the PowerShell Support Community Pages
+## Welcome to the PowerShell Support Summary Pages
 
 This site has been created to aggregate the list of available PowerShell versions and their support information.
 
@@ -26,7 +26,7 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 
 ### A picture is worth a thousand words
 
-![Timeline of Support lifecycle of PowerShell](pwsh-november-2021-v1.png)
+![Timeline of Support lifecycle of PowerShell](pwsh-december-2021-v1.png)
 
 ### The latest releases of PowerShell editions required for support
 
@@ -35,7 +35,7 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 | Windows PowerShell        | 5.1     |
 | PowerShell ~~(Core)~~ LTS | 7.0.8   |
 | PowerShell ~~(Core)~~     | 7.1.5   |
-| PowerShell LTS            | 7.2.0   |
+| PowerShell LTS            | 7.2.1   |
 
 > Note: There is a ~1 year overlap in support of the two LTS versions to help transitioning to 7.2.
 
