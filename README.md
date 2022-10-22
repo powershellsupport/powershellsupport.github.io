@@ -33,10 +33,10 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 | Edition                   | Version |
 | :------------------------ | :------ |
 | Windows PowerShell        | 5.1     |
-| PowerShell ~~(Core)~~ LTS | 7.0.12  |
+| PowerShell ~~(Core)~~ LTS | 7.0.13  |
 | ~~PowerShell (Core)~~     | ~~7.1.7~~   |
-| PowerShell LTS            | 7.2.6   |
-| PowerShell Preview        | 7.3.0-preview.7   |
+| PowerShell LTS            | 7.2.7   |
+| PowerShell Preview        | 7.3.0-preview.8   |
 
 > Note: There is a ~1 year overlap in support of the two LTS versions to help transitioning to 7.2.
 
@@ -56,4 +56,4 @@ If you have questions, you may find help from other members of the community in 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpowershellsupport.github.io%2F&countColor=%23263759)
 
-> Last updated 2022/08/19.
+> Last updated 2022/10/20.
