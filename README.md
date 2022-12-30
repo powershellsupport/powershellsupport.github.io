@@ -49,6 +49,8 @@ If you have questions, you may find help from other members of the community in 
 - [PowerShell.org](https://powershell.org/)
 - [StackOverFlow](https://stackoverflow.com/questions/tagged/powershell)
 - [r/PowerShell subreddit](https://www.reddit.com/r/PowerShell/)
+- [Powershell Guide](https://powershellguide.com/PowerShell/Guide/) (🌟new)
+- [Explain PowerShell](https://www.explainpowershell.com/) (🌟new)
 - PowerShell Virtual User Group - join via:
   - [Slack](https://aka.ms/psslack)
   - [Discord](https://aka.ms/psdiscord)
