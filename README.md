@@ -34,8 +34,8 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 | :------------------------ | :------ |
 | Windows PowerShell        | 5.1     |
 | ~~PowerShell LTS~~           | ~~7.0.13~~  |
-| PowerShell LTS            | 7.2.8   |
-| PowerShell                | 7.3.1   |
+| PowerShell LTS            | 7.2.15   |
+| PowerShell                | 7.3.8   |
 
 > Note: There is a ~1 year overlap in support of the two LTS versions to help transitioning to 7.2.
 
@@ -57,4 +57,4 @@ If you have questions, you may find help from other members of the community in 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpowershellsupport.github.io%2F&countColor=%23263759)
 
-> Last updated 2022/12/30.
+> Last updated 2023/10/14
