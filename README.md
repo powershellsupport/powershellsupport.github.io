@@ -4,7 +4,7 @@ This site has been created to aggregate the list of available PowerShell version
 
 ### Windows PowerShell vs. PowerShell (Core)
 
-Issues with Windows PowerShell are tracked using [UserVoice](https://windowsserver.uservoice.com/forums/301869-powershell).
+~~Issues with Windows PowerShell are tracked using [UserVoice](https://windowsserver.uservoice.com/forums/301869-powershell).~~
 
 Issues related to PowerShell (cross-platform) are tracked on [GitHub](https://github.com/PowerShell/PowerShell/issues).
 
@@ -26,16 +26,15 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 
 ### A picture is worth a thousand words
 
-![Timeline of Support lifecycle of PowerShell](pwsh-june-2022-v1.png)
+![Timeline of Support lifecycle of PowerShell](pwsh-march-2025.png)
 
 ### The latest releases of PowerShell editions required for support
 
 | Edition                   | Version |
 | :------------------------ | :------ |
 | Windows PowerShell        | 5.1     |
-| ~~PowerShell LTS~~           | ~~7.0.13~~  |
-| PowerShell LTS            | 7.2.15   |
-| PowerShell                | 7.3.8   |
+| PowerShell LTS            | 7.4.7   |
+| PowerShell                | 7.5.0   |
 
 > Note: There is a ~1 year overlap in support of the two LTS versions to help transitioning to 7.2.
 
@@ -57,4 +56,4 @@ If you have questions, you may find help from other members of the community in 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpowershellsupport.github.io%2F&countColor=%23263759)
 
-> Last updated 2023/10/14
+> Last updated 2025.03.09
