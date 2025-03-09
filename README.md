@@ -36,8 +36,6 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 | PowerShell LTS            | 7.4.7   |
 | PowerShell                | 7.5.0   |
 
-> Note: There is a ~1 year overlap in support of the two LTS versions to help transitioning to 7.2.
-
 ### Getting support from the community
 
 If you have questions, you may find help from other members of the community in one of these public forums:
