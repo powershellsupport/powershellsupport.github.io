@@ -33,8 +33,8 @@ The official docs are located [here](https://docs.microsoft.com/en-us/powershell
 | Edition                   | Version |
 | :------------------------ | :------ |
 | Windows PowerShell        | 5.1     |
-| PowerShell LTS            | 7.4.7   |
-| PowerShell                | 7.5.0   |
+| PowerShell LTS            | 7.4.13   |
+| PowerShell                | 7.5.4   |
 
 ### Getting support from the community
 
@@ -54,4 +54,4 @@ If you have questions, you may find help from other members of the community in 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpowershellsupport.github.io%2F&countColor=%23263759)
 
-> Last updated 2025.03.09
+> Last updated 2025.10.26
